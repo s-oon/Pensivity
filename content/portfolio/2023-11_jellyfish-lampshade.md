@@ -1,5 +1,8 @@
 ---
 title: Jellyfish Lampshade
+description: A lampshade made to look like a jellyfish.
+alias:
+  - 'jellyfish-lampshade'
 ---
 This beauty took maybe 6 months' worth of Saturday mornings to finish. It's made of brass wire, rose quartz, freshwater pearls, organza, tulle with fake pearls, and thread.
 

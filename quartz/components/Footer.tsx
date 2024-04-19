@@ -15,8 +15,12 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
+          © 2023 - {year} Senn Oon, licenced under
+        <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"> CC BY-NC-SA 4.0</a>.
+        </p>
+        <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}. Quartz can be found at:
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (

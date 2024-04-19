@@ -1,5 +1,8 @@
 ---
 title: ResBaz QLD 2023 - Looking for ongoing 1-on-1 mentorship after ResBaz? Start here!
+description: Slides and runsheet for a 2023 workshop on mentorship.
+alias:
+  - 'resbazqld2023-looking-for-ongoing-mentorship'
 ---
 I put together and ran this workshop having thought about the importance of having people you can trust to guide you through difficult journeys, of which research is one. A lot of people have guided (and will continue to guide!) me, and I think it's important to pass the spirit of it on. Pay it forward, as the saying goes.
 
