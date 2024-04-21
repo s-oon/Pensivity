@@ -1,5 +1,5 @@
 ---
-title: Pensivity
+title: Home
 description: Senn's little corner of the internet.
 date: 2023-03-13
 ---
@@ -9,4 +9,4 @@ Perhaps the best way to describe who I am and what I do is to call me a creative
 
 On the professional and career side of life, the two threads connecting my experiences together are information and education. At the moment, my work is focused on upskilling researchers and university students in IT and programming. I'm also studying a Master of Information Science (Extended) at Curtin University with the aim of becoming a librarian.
 
-So that's me in a nutshell! If you'd like to say hi, or want to find out more, you can reach me at [senn@pensivity.xyz](mailto:senn@pensivity.xyz) or find me on <a rel="me" href="https://mastodon.au/@silverblue">Mastodon</a>. Thanks for reading, and have a great day.
+So that's me in a nutshell! If you'd like to say hi, you can reach me at [senn@pensivity.xyz](mailto:senn@pensivity.xyz) or find me on <a rel="me" href="https://mastodon.au/@silverblue">Mastodon</a>. Thanks for reading, and have a great day.

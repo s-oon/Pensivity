@@ -20,20 +20,20 @@ const config: QuartzConfig = {
       fontOrigin: "local",
       cdnCaching: false,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Petrona",
+        body: "Petrona",
+        code: "Inconsolata",
       },
       colors: {
-        lightMode: { // modify
-          light: "white",
-          lightgray: "pink",
-          gray: "orange",
-          darkgray: "green",
-          dark: "black",
-          secondary: "red",
-          tertiary: "grey",
-          highlight: "purple",
+        lightMode: {
+          light: "#C3CAE8",
+          lightgray: "#E2E5F4",
+          gray: "#463958",
+          darkgray: "#1F2F5B",
+          dark: "#31283E",
+          secondary: "#562E7A",
+          tertiary: "#A43D58",
+          highlight: "#D3D8EE",
         },
         darkMode: {
           light: "#221F2B",
